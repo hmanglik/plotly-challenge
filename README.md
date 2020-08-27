@@ -8,4 +8,4 @@ In the app.js file, we first read .json data through by using promises. Plotly.j
 The index.html file has a general outline of where all the charts are positioned based on bootstrap. It also has div id's where we can push plots into from app.js. 
 
 # Samples.json file
-The samples.json file can be found both under `<data>` folder or alongside the index.html file. 
+The samples.json file can be found both under `data` folder or alongside the index.html file. 
